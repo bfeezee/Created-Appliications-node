@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo chmod -Rv777 /home/ec2-user/express-app
 #navigate into our working directory where we have all our github files
-cd /home/ec-2-user/express-app
+cd /Users/brian-deese/nodejs-express-on-aws-ec2
 
 #add npm and node to path
 export NVM_DIR="$HOME/.nvm"
